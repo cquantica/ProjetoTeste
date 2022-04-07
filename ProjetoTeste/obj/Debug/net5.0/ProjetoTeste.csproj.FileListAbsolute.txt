@@ -1,0 +1,12 @@
+D:\CURSO SENAI\BACKEND SENAI\UC12\ER2\ProjetoTeste\ProjetoTeste\bin\Debug\net5.0\ProjetoTeste.deps.json
+D:\CURSO SENAI\BACKEND SENAI\UC12\ER2\ProjetoTeste\ProjetoTeste\bin\Debug\net5.0\ProjetoTeste.dll
+D:\CURSO SENAI\BACKEND SENAI\UC12\ER2\ProjetoTeste\ProjetoTeste\bin\Debug\net5.0\ProjetoTeste.pdb
+D:\CURSO SENAI\BACKEND SENAI\UC12\ER2\ProjetoTeste\ProjetoTeste\obj\Debug\net5.0\ProjetoTeste.csproj.AssemblyReference.cache
+D:\CURSO SENAI\BACKEND SENAI\UC12\ER2\ProjetoTeste\ProjetoTeste\obj\Debug\net5.0\ProjetoTeste.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO SENAI\BACKEND SENAI\UC12\ER2\ProjetoTeste\ProjetoTeste\obj\Debug\net5.0\ProjetoTeste.AssemblyInfoInputs.cache
+D:\CURSO SENAI\BACKEND SENAI\UC12\ER2\ProjetoTeste\ProjetoTeste\obj\Debug\net5.0\ProjetoTeste.AssemblyInfo.cs
+D:\CURSO SENAI\BACKEND SENAI\UC12\ER2\ProjetoTeste\ProjetoTeste\obj\Debug\net5.0\ProjetoTeste.csproj.CoreCompileInputs.cache
+D:\CURSO SENAI\BACKEND SENAI\UC12\ER2\ProjetoTeste\ProjetoTeste\obj\Debug\net5.0\ProjetoTeste.dll
+D:\CURSO SENAI\BACKEND SENAI\UC12\ER2\ProjetoTeste\ProjetoTeste\obj\Debug\net5.0\refint\ProjetoTeste.dll
+D:\CURSO SENAI\BACKEND SENAI\UC12\ER2\ProjetoTeste\ProjetoTeste\obj\Debug\net5.0\ProjetoTeste.pdb
+D:\CURSO SENAI\BACKEND SENAI\UC12\ER2\ProjetoTeste\ProjetoTeste\obj\Debug\net5.0\ref\ProjetoTeste.dll
